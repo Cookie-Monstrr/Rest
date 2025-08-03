@@ -1,0 +1,14 @@
+# Android SDK and tools (don't commit these large files)
+android-sdk/
+cmdline-tools/
+*.zip
+commandlinetools-*.zip
+
+# Android build files
+build/
+.gradle/
+local.properties
+
+# IDE files
+.idea/
+*.iml
